@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\Spice_Agency\Spice_Agency\bin\Debug\Spice_Agency.exe.config
+C:\Users\user\Desktop\Spice_Agency\Spice_Agency\obj\Debug\Spice_Agency.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Spice_Agency\Spice_Agency\bin\Debug\Spice_Agency.exe
+C:\Users\user\Desktop\Spice_Agency\Spice_Agency\bin\Debug\Spice_Agency.pdb
+C:\Users\user\Desktop\Spice_Agency\Spice_Agency\obj\Debug\Spice_Agency.exe
+C:\Users\user\Desktop\Spice_Agency\Spice_Agency\obj\Debug\Spice_Agency.pdb
